@@ -7,3 +7,7 @@ This app was developed with AndroidStudio and the [IndoorAtlas MapCreator tool](
 ## Acknowledgements
 
 Original source of the code can be found [here](https://github.com/IndoorAtlas/android-sdk-examples).
+
+### How it works? ###
+
+[![Demo CountPages alpha](https://github.com/NataliaVolentova/Indoor-Navigation-Project/blob/master/gif.gif)](https://www.youtube.com/watch?v=HB7SRnDuBF8)
